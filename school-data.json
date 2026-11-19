@@ -1,0 +1,1923 @@
+{
+  "fees": {
+    "Nursery": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "LKG": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "UKG": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 1": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 2": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 3": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 14,000.00/-",
+          "₹ 42,000.00/-",
+          "₹ 168,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 4": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 14,400.00/-",
+          "₹ 42,000.00/-",
+          "₹ 168,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 5": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 14,000.00/-",
+          "₹ 42,000.00/-",
+          "₹ 168,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 6": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 15,000.00/-",
+          "₹ 45,000.00/-",
+          "₹ 180,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 12,000.00/-",
+          "₹ 36,000.00/-",
+          "₹ 144,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 7": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 15,000.00/-",
+          "₹ 45,000.00/-",
+          "₹ 180,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 12,000.00/-",
+          "₹ 36,000.00/-",
+          "₹ 144,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 8": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 15,000.00/-",
+          "₹ 45,000.00/-",
+          "₹ 180,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 12,000.00/-",
+          "₹ 36,000.00/-",
+          "₹ 144,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 9": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 16,000.00/-",
+          "₹ 48,000.00/-",
+          "₹ 192,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standard 10": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 16,000.00/-",
+          "₹ 48,000.00/-",
+          "₹ 192,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ],
+    "Standards 11 / 12 (CBSE)": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 19,000.00/-",
+          "₹ 57,000.00/-",
+          "₹ 228,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 15,000.00/-",
+          "₹ 45,000.00/-",
+          "₹ 180,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 10,000.00/-",
+          "₹ 30,000.00/-",
+          "₹ 120,000.00/-"
+        ]
+      ]
+    ],
+    "+2 CHSE": [
+      [
+        "Bhubaneswar-Gothapatna",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 60,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 6,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 13,000.00/-",
+          "₹ 39,000.00/-",
+          "₹ 156,000.00/-"
+        ]
+      ],
+      [
+        "Bhubaneswar-Balakati",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "—",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 10,000.00/-",
+          "₹ 30,000.00/-",
+          "₹ 120,000.00/-"
+        ]
+      ],
+      [
+        "Puri-Balanga",
+        [
+          [
+            "₹ 1,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 30,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 15,000.00/-",
+            "Non-Refundable"
+          ],
+          [
+            "₹ 5,000.00/-",
+            "Refundable"
+          ]
+        ],
+        [
+          "₹ 8,000.00/-",
+          "₹ 24,000.00/-",
+          "₹ 96,000.00/-"
+        ]
+      ]
+    ]
+  },
+  "gallery": {
+    "Science Exhibition": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%282%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%28106%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%28105%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%283%29.jpg"
+    ],
+    "Smart Classrooms": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%28103%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2869%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2870%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2873%29.jpg"
+    ],
+    "Gym": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2891%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2841%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2895%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%28100%29.jpg"
+    ],
+    "Students": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%284%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2811%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2828%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2824%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2821%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2844%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2853%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2860%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2877%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2879%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2890%29.jpg"
+    ],
+    "Sports": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2834%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2832%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2836%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2843%29.jpg"
+    ],
+    "School Life": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2851%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2888%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2887%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2883%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2884%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2858%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2846%29.jpg"
+    ],
+    "Cultural Programme": [
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2816%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2819%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2867%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2866%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2878%29.jpg",
+      "https://www.tsggurukul.com/storage/photo_gallery/TSG%20%2863%29.jpg"
+    ]
+  },
+  "images": {
+    "about-us": [
+      "https://www.tsggurukul.com/storage/page_media/7cb232c7-5882-4845-81e1-85df8b936db7.jpg"
+    ],
+    "academic-calendar": [
+      "https://www.tsggurukul.com/storage/page_media/71a9815e-205d-4007-9c67-0373a065eaa0.jpg"
+    ],
+    "academic-classroom": [
+      "https://www.tsggurukul.com/storage/page_media/6e322cfe-ea92-40da-b34d-60226a1c2daf.jpg"
+    ],
+    "academics": [
+      "https://www.tsggurukul.com/storage/page_media/c0496ad5-7746-413c-8816-add21c312e83.jpg"
+    ],
+    "activities": [
+      "https://www.tsggurukul.com/storage/page_media/fe216807-5b98-40e7-bbf8-a2b302288213.jpg"
+    ],
+    "admission-criteria": [
+      "https://www.tsggurukul.com/storage/page_media/065b7875-c0d9-4c3c-b4b8-4609f0b30e26.jpg"
+    ],
+    "admission": [
+      "https://www.tsggurukul.com/storage/page_media/0ad0d4d2-abe8-4267-a755-bda26c449b2e.jpg"
+    ],
+    "boarding-option": [
+      "https://www.tsggurukul.com/storage/page_media/065f0ed9-433f-4cf0-a8f1-386ed4c2c7c0.jpg",
+      "https://www.tsggurukul.com/frontend/images/otherimages/046-300x225.jpg",
+      "https://www.tsggurukul.com/frontend/images/otherimages/0861-300x225.jpg"
+    ],
+    "campus-locations": [
+      "https://www.tsggurukul.com/storage/page_media/903a84f8-0534-4d60-9d73-4928eff3d235.jpg",
+      "https://www.tsggurukul.com/frontend/images/otherimages/050-300x225.jpg",
+      "https://www.tsggurukul.com/frontend/images/otherimages/058-300x225.jpg"
+    ],
+    "campus-rule-of-hostel": [
+      "https://www.tsggurukul.com/storage/page_media/5c702e23-5c1a-48dc-b1f7-b1c2e0aa4eba.jpg"
+    ],
+    "chairman-message": [
+      "https://www.tsggurukul.com/storage/page_media/0bfabdb0-19b1-4a80-841f-246d0277eec6.jpg"
+    ],
+    "course": [
+      "https://www.tsggurukul.com/storage/page_media/1c532d7b-47fc-4770-8992-4088751a4165.jpg"
+    ],
+    "cultural-practice": [
+      "https://www.tsggurukul.com/storage/page_media/cc59601c-ba6a-4cbd-8d4b-ed0eca476101.jpg"
+    ],
+    "entrance-coaching": [
+      "https://www.tsggurukul.com/storage/page_media/c851ea95-2f04-4a02-bb41-30b887d28574.jpg"
+    ],
+    "exam": [
+      "https://www.tsggurukul.com/storage/page_media/967b34a5-07e9-401e-8a42-6ef3fd44b96e.jpg"
+    ],
+    "facilities": [
+      "https://www.tsggurukul.com/storage/page_media/dc74b9bb-7ff7-4fb4-a43b-cc5d5e2671a9.jpg"
+    ],
+    "faculty": [
+      "https://www.tsggurukul.com/storage/page_media/a29eda97-95a7-4275-b62e-c82d587b3249.jpg"
+    ],
+    "fee-details": [
+      "https://www.tsggurukul.com/storage/page_media/0f2ac73f-8434-40ad-b698-a7c6b765cbe5.webp"
+    ],
+    "fine-arts-music": [
+      "https://www.tsggurukul.com/storage/page_media/229d31e8-3f53-4e68-824d-ac86ce62411e.jpg"
+    ],
+    "health-and-food": [
+      "https://www.tsggurukul.com/storage/page_media/179e586b-3dfd-4d18-b187-ae914632a161.jpg"
+    ],
+    "help": [],
+    "higher-studie": [
+      "https://www.tsggurukul.com/storage/page_media/80867371-02b6-4174-9b52-9426ba54c09a.jpg"
+    ],
+    "hostel-and-cuisine": [
+      "https://www.tsggurukul.com/storage/page_media/a3963475-7817-4003-ac31-97c3cc8fce9a.jpg"
+    ],
+    "house-keeping": [],
+    "infrastructure": [
+      "https://www.tsggurukul.com/storage/page_media/572fcf54-0248-4018-9850-42c6c5c2339a.jpg"
+    ],
+    "instructions-for-admission": [
+      "https://www.tsggurukul.com/storage/page_media/31eb1e1b-2b17-47cf-a2b3-d86bb405adb2.webp"
+    ],
+    "it-club": [
+      "https://www.tsggurukul.com/storage/page_media/e7d976a8-c7b8-47fe-830f-cf078a68b5cc.jpg"
+    ],
+    "lab": [
+      "https://www.tsggurukul.com/storage/page_media/fde43051-671e-42b3-bc81-83d3f374dcd4.jpg"
+    ],
+    "laundry": [
+      "https://www.tsggurukul.com/storage/page_media/f350abcd-75ce-4636-b99d-536b6cb60e7a.jpg"
+    ],
+    "library": [
+      "https://www.tsggurukul.com/storage/page_media/38f9f111-02f8-417c-9a8d-88a93855ad47.jpg"
+    ],
+    "mandatory-enclosure": [
+      "https://www.tsggurukul.com/storage/page_media/199462fd-4e27-4b50-92ba-26713bbe39e1.jpg"
+    ],
+    "martial-arts": [
+      "https://www.tsggurukul.com/storage/page_media/7e72786a-9968-4ef9-b7ea-3cb3e9925fa2.jpg"
+    ],
+    "medical-care": [
+      "https://www.tsggurukul.com/storage/page_media/58354e40-d0cd-420c-88b5-320972595276.jpg"
+    ],
+    "mission": [
+      "https://www.tsggurukul.com/storage/page_media/84f826b8-94b9-411e-8dd7-8e46eb2f1862.jpg"
+    ],
+    "parental-visit": [
+      "https://www.tsggurukul.com/storage/page_media/27d21cc2-76c6-45ea-86de-dced92afe74b.jpg"
+    ],
+    "payment-policy": [
+      "https://www.tsggurukul.com/storage/page_media/cf8a42ee-45a1-44bc-9082-1f7e449afcb4.jpg"
+    ],
+    "privacy-policy": [],
+    "profile": [
+      "https://www.tsggurukul.com/storage/page_media/7e72d28b-f8a2-4397-92b3-78aed965f4b6.jpg"
+    ],
+    "remedial-coaching": [
+      "https://www.tsggurukul.com/storage/page_media/62fc8fff-dd1a-4dc1-a063-8edb564e10f5.jpg"
+    ],
+    "rules-and-regulations": [
+      "https://www.tsggurukul.com/storage/page_media/b57dc9c3-d53c-47f9-9136-197362e9582c.jpg"
+    ],
+    "site-map": [],
+    "smart-classrooms": [
+      "https://www.tsggurukul.com/storage/page_media/2d657a40-6a5f-487a-84be-b185e48a661e.jpg"
+    ],
+    "social-responsibility": [
+      "https://www.tsggurukul.com/storage/page_media/dd3ab927-8709-4b4e-94f2-87de0d19d466.jpg"
+    ],
+    "sports": [
+      "https://www.tsggurukul.com/storage/page_media/2ef836f1-372f-4a8a-9b83-e896d8fbc41e.jpg"
+    ],
+    "terms-and-conditions": [],
+    "transportation": [
+      "https://www.tsggurukul.com/storage/page_media/bf912baa-7274-4c15-bd76-b4734f88c7d1.jpg",
+      "https://www.tsggurukul.com/frontend/images/otherimages/037-300x225.jpg",
+      "https://www.tsggurukul.com/frontend/images/otherimages/088-300x225.jpg"
+    ]
+  },
+  "staff": [
+    [
+      "SMT RANJITA MOHAPATRA",
+      "PRINCIPAL",
+      "MA",
+      "BED"
+    ],
+    [
+      "SUBHASMITA SENAPATI",
+      "TGT",
+      "D.EL.ED",
+      "D.EL.ED"
+    ],
+    [
+      "SANGHAMITRA THAPA",
+      "TGT",
+      "BA",
+      "BED"
+    ],
+    [
+      "SUKANTA KUMAR CHHOTARAY",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "SMRUTI RANJAN BARIK",
+      "TGT",
+      "BCA",
+      "BED"
+    ],
+    [
+      "MANAS KUMAR PATRA",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "JAYALALITA BEHERA",
+      "TGT",
+      "BA",
+      "BED"
+    ],
+    [
+      "NIHARIKA RAUTRAY",
+      "TGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "SAJAL KUMAR PANDA",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "MANOJAKABI SATAPATHY",
+      "TGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "SUSANTA KUMAR SAHOO",
+      "TGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "JULEE PANI",
+      "TGT",
+      "BA",
+      "BED"
+    ],
+    [
+      "SITALIKA PATRA",
+      "TGT",
+      "BA",
+      "BED"
+    ],
+    [
+      "RANJIT KUMAR PATRA",
+      "TGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "PRIYADARSHINI TARAI",
+      "TGT",
+      "PG",
+      "BED"
+    ],
+    [
+      "CHINUSHREE SAHOO",
+      "TGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "BAIKUNTH CHARAN DAS",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "MONALISHA PANDA",
+      "TGT",
+      "BHED",
+      "BHED"
+    ],
+    [
+      "BRATATI PATTANAIK",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "PRIYANKA PRIYADARSHANI NAYAK",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "SANGHAMITRA BHUTIA",
+      "TGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "KALPATARU DAS",
+      "TGT",
+      "msc",
+      "BED"
+    ],
+    [
+      "USHA MOHANTY",
+      "TGT",
+      "PG",
+      "BED"
+    ],
+    [
+      "SWARNA PRAVA SAHOO",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "SWARNALATA PATRA",
+      "TGT",
+      "BSC",
+      "BED"
+    ],
+    [
+      "LOPAMUDRA PARIJA",
+      "TGT",
+      "BA",
+      "Ratna"
+    ],
+    [
+      "BITIBALA ACHARYA",
+      "TGT",
+      "BA",
+      "B.Ed"
+    ],
+    [
+      "LOPAMUDRA JENA",
+      "TGT",
+      "BA",
+      "BED"
+    ],
+    [
+      "SUDIPTA RANI DASH",
+      "PGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "ASHA JYOTI PANDA",
+      "PGT",
+      "MCom",
+      "BEd"
+    ],
+    [
+      "HARSHA SHARMA",
+      "PGT",
+      "B.com",
+      "B.com"
+    ],
+    [
+      "RANJAN KUMAR KAR",
+      "PGT",
+      "M.com",
+      "M.Phil"
+    ],
+    [
+      "LIZA PRADHAN",
+      "PGT",
+      "MA",
+      "BEd"
+    ],
+    [
+      "BIKASH KUMAR MAHANTA",
+      "PGT",
+      "MSC",
+      "MED"
+    ],
+    [
+      "R ARBIN RAJA SIBIN",
+      "PGT",
+      "MA",
+      "BEd"
+    ],
+    [
+      "P.DARVIN",
+      "PGT",
+      "MSc",
+      "BEd"
+    ],
+    [
+      "RESHMA SWAIN",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "SOUMYA RANJAN KANUNGO",
+      "PGT",
+      "PG",
+      "BED"
+    ],
+    [
+      "UTPALA SAMANTARAY",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "AMBIKESH PRASAD DASH",
+      "PGT",
+      "MBA",
+      "B.ED"
+    ],
+    [
+      "DIBYA LOCHAN MOHAPATRA",
+      "PGT",
+      "MCA",
+      "MCA"
+    ],
+    [
+      "SUSHREE KSHIRABDHI TANAYA",
+      "PGT",
+      "M.Sc",
+      "M.Ed"
+    ],
+    [
+      "SAROJ KUMAR DAS",
+      "PGT",
+      "NA",
+      "NA"
+    ],
+    [
+      "BISHNU PRASAD SARANGI",
+      "PGT",
+      "NA",
+      "NA"
+    ],
+    [
+      "BHABESH RANJAN BEHERA",
+      "PGT",
+      "NA",
+      "NA"
+    ],
+    [
+      "MAYADHAR MOHARANA",
+      "PGT",
+      "NA",
+      "NA"
+    ],
+    [
+      "PRADEEP DASH",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "SMRUTI RANJAN PADHI",
+      "PGT",
+      "MA",
+      "M.Phil"
+    ],
+    [
+      "D.K. Sabat",
+      "PGT",
+      "M.Sc",
+      "M.Sc"
+    ],
+    [
+      "ELINA DASH",
+      "PGT",
+      "M.Sc",
+      "M.Sc"
+    ],
+    [
+      "JYOTI RANJAN PANDA",
+      "PGT",
+      "M.A",
+      "B.ED"
+    ],
+    [
+      "ARVIND KUMAR",
+      "PGT",
+      "MSC",
+      "B.ED"
+    ],
+    [
+      "SIBANI PASAYAT",
+      "PGT",
+      "MA",
+      "BED"
+    ],
+    [
+      "SATYANANDA DALAI",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "SANTOSH KUMAR SAHOO",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "MADHUSMITA SWAIN",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "SANDHYA RANI PADHY",
+      "PGT",
+      "MSC",
+      "BED"
+    ],
+    [
+      "RONALI BISWAL",
+      "PET",
+      "BPED",
+      "BPED"
+    ],
+    [
+      "PRAGYAN BALIYARSINGH",
+      "PET",
+      "BPED",
+      "BPED"
+    ]
+  ],
+  "jobs": [
+    [
+      "Academic Head",
+      "1",
+      "8 Years of Experience"
+    ],
+    [
+      "Academic Coordinator",
+      "1",
+      "5 Years of Experience"
+    ],
+    [
+      "Head of the Departments(for all Subjects) 🔹 English 🔹 Mathematics 🔹 Science (Physics/Chemistry/Biology) 🔹 Social Science 🔹 Computer Science 🔹 Commerce 🔹 Physical Education",
+      "10",
+      "8 Years of Experience"
+    ],
+    [
+      "NTT (Only Female Candidates)",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "PRT (English/Math/EVS etc.)",
+      "1",
+      "3 Years of Experience"
+    ],
+    [
+      "TGT",
+      "1",
+      "5 Years of Experience"
+    ],
+    [
+      "PGT",
+      "1",
+      "5 Years of Experience"
+    ],
+    [
+      "Administrative Head",
+      "1",
+      "5 Years of Experience"
+    ],
+    [
+      "Operations Head",
+      "1",
+      "8 Years of Experience"
+    ],
+    [
+      "Accounts Manager",
+      "1",
+      "5 Years of Experience"
+    ],
+    [
+      "Accounts Executive",
+      "1",
+      "2 Years of Experience"
+    ],
+    [
+      "Legal Advisor",
+      "1",
+      "10 Years of Experience"
+    ],
+    [
+      "Student Welfare Officer",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "Manager (Operations)",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "Marketing Head",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "Sr. Counselor",
+      "1",
+      "5 Years of Experience"
+    ],
+    [
+      "Canteen Manager",
+      "1",
+      "3 Years of Experience"
+    ],
+    [
+      "Cook",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "Hostel Supervisor",
+      "1",
+      "3 Years of Experience"
+    ],
+    [
+      "Hostel warden",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "Office Attended (Peon)",
+      "1",
+      "1 Years of Experience"
+    ],
+    [
+      "HR",
+      "1",
+      "1 Years of Experience"
+    ]
+  ],
+  "pageLinks": {
+    "about-us": [],
+    "academic-calendar": [],
+    "academic-classroom": [],
+    "academics": [],
+    "activities": [],
+    "admission-criteria": [],
+    "admission": [],
+    "boarding-option": [],
+    "campus-locations": [],
+    "campus-rule-of-hostel": [],
+    "chairman-message": [],
+    "course": [],
+    "cultural-practice": [],
+    "entrance-coaching": [],
+    "exam": [],
+    "facilities": [],
+    "faculty": [],
+    "fee-details": [],
+    "fine-arts-music": [],
+    "health-and-food": [],
+    "help": [],
+    "higher-studie": [],
+    "hostel-and-cuisine": [],
+    "house-keeping": [],
+    "infrastructure": [],
+    "instructions-for-admission": [
+      "https://new.tsggurukul.com/application",
+      "https://tsggurukul.com/pdf/Prospectus-2026-27.pdf",
+      "https://tsggurukul.com/pdf/TSG_ADMISSION%20FINAL%20POSTER.pdf"
+    ],
+    "it-club": [],
+    "lab": [],
+    "laundry": [],
+    "library": [],
+    "mandatory-enclosure": [],
+    "martial-arts": [],
+    "medical-care": [],
+    "mission": [],
+    "parental-visit": [],
+    "payment-policy": [],
+    "privacy-policy": [],
+    "profile": [],
+    "remedial-coaching": [],
+    "rules-and-regulations": [],
+    "site-map": [],
+    "smart-classrooms": [],
+    "social-responsibility": [],
+    "sports": [],
+    "terms-and-conditions": [],
+    "transportation": []
+  },
+  "videos": [
+    "https://www.tsggurukul.com/storage/video_gallery/28064_TG_Video4.mp4",
+    "https://www.tsggurukul.com/storage/video_gallery/44208_TG_Video3.mp4",
+    "https://www.tsggurukul.com/storage/video_gallery/50614_TG_Video1%20%281%29.mp4",
+    "https://www.tsggurukul.com/storage/video_gallery/50614_TG_Video1.mp4",
+    "https://www.tsggurukul.com/storage/video_gallery/99496_5.mp4"
+  ]
+}
